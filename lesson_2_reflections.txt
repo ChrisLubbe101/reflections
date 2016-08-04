@@ -3,3 +3,13 @@ What happens when you initialize a repositiory? Why do you need to do it?
 The git respository is created to tract changes to file. 
 
 ----------------------------------------------------------------------------------------
+
+How is the staging area different from the working directory and repository? What value
+do you think it offers
+
+The working directory contains all the files
+The repository contains all the versions of all the committed file
+The staging area contains the files to be committed
+
+The benefit of the staging area is imporved control over what is to be submitted
+
