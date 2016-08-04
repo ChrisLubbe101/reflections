@@ -1,0 +1,5 @@
+What happens when you initialize a repositiory? Why do you need to do it?
+
+The git respository is created to tract changes to file. 
+
+----------------------------------------------------------------------------------------

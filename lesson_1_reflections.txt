@@ -1,0 +1,51 @@
+How did viewing a diff between 2 versions helped you spot the bug?
+
+I made it easier, as it was  unnecessary to read through the two documents from top to bottom
+
+----------------------------------------------------------------------------------------------------------------------------
+
+How could having easy access to thee eniter hsitory of a file make you a more efficeint programmer in the long term?
+
+I will allow for easy bug detection, easier experimentation and developing of new features while keeping the software stable
+
+----------------------------------------------------------------------------------------------------------------------------
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions
+automatically saved, like Googe Docs does?
+
+Pros
+
+1.	One commit per logical change
+2.	Every commit makes sense
+
+Cons
+
+1.	You need to remember to commit
+2.	Extra work
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Why do you think some version control systems like Git, allow saving multiple files in one commit, while others, like
+Goog Docs, treat each file separately?
+
+Git is developed with programming in mind. Ons logal change to the program often reuires changes in more than one file
+
+-------------------------------------------------------------------------------------------------------------------------
+
+How can you use the commands git log and git diff to view the histry of files?
+
+git log will show each commit with a description of why the commit was made
+
+git diff will show the difference in all files between the two commits
+
+------------------------------------------------------------------------------------------------------------------------
+
+How might using version control make you more confident to make changes that could break something?
+
+This is especially handy for me. I can do stuff and if it breaks everything I can roll back to a previous version
+
+-----------------------------------------------------------------------------------------------------------------------
+
+What do you want to use Git for?
+
+SQL, R and web dev
