@@ -13,3 +13,33 @@ The staging area contains the files to be committed
 
 The benefit of the staging area is imporved control over what is to be submitted
 
+---------------------------------------------------------------------------------------
+
+How can you use the staging area to make sur you have one commit per logical change
+
+You can only put selected files into the staging area and then commit them Then you can
+repeat the process
+
+--------------------------------------------------------------------------------------
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Any experminent and new features can be branched. 
+
+It will allow development of above mentioned, while enabling you to fix bugs on master
+
+---------------------------------------------------------------------------------------
+
+How do the diagrams help you visualize the branch structure?
+
+It is a visual model of all the branches
+
+--------------------------------------------------------------------------------------
+
+What is the rusult of two branches merging together? Why do we represent it in the diagram
+in the way we do?
+
+The result is a single new branch conisitng of the commits of both previous branches.
+Commits from both branches is now reachable from the new 'master' branch
+
